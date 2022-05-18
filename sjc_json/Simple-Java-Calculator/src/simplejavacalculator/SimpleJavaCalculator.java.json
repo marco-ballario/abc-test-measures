@@ -220,6 +220,9 @@
                     "branches_max": 4.0,
                     "conditions_min": 0.0,
                     "conditions_max": 2.0
+                },
+                "wmc": {
+                    "wmc": 2.0
                 }
             }
         }
@@ -324,6 +327,9 @@
             "branches_max": 4.0,
             "conditions_min": 0.0,
             "conditions_max": 2.0
+        },
+        "wmc": {
+            "wmc_total": 2.0
         }
     }
 }
