@@ -2286,17 +2286,17 @@
                         "abc": {
                             "assignments": 5.0,
                             "branches": 9.0,
-                            "conditions": 7.0,
-                            "magnitude": 12.449899597988733,
+                            "conditions": 8.0,
+                            "magnitude": 13.038404810405298,
                             "assignments_average": 5.0,
                             "branches_average": 9.0,
-                            "conditions_average": 7.0,
+                            "conditions_average": 8.0,
                             "assignments_min": 5.0,
                             "assignments_max": 5.0,
                             "branches_min": 9.0,
                             "branches_max": 9.0,
-                            "conditions_min": 7.0,
-                            "conditions_max": 7.0
+                            "conditions_min": 8.0,
+                            "conditions_max": 8.0
                         }
                     }
                 },
@@ -3049,17 +3049,17 @@
                         "abc": {
                             "assignments": 2.0,
                             "branches": 9.0,
-                            "conditions": 7.0,
-                            "magnitude": 11.575836902790225,
+                            "conditions": 8.0,
+                            "magnitude": 12.206555615733702,
                             "assignments_average": 2.0,
                             "branches_average": 9.0,
-                            "conditions_average": 7.0,
+                            "conditions_average": 8.0,
                             "assignments_min": 2.0,
                             "assignments_max": 2.0,
                             "branches_min": 9.0,
                             "branches_max": 9.0,
-                            "conditions_min": 7.0,
-                            "conditions_max": 7.0
+                            "conditions_min": 8.0,
+                            "conditions_max": 8.0
                         }
                     }
                 },
@@ -4244,11 +4244,11 @@
                 "abc": {
                     "assignments": 66.0,
                     "branches": 313.0,
-                    "conditions": 39.0,
-                    "magnitude": 322.25145461269835,
+                    "conditions": 41.0,
+                    "magnitude": 322.49961240286785,
                     "assignments_average": 1.6923076923076923,
                     "branches_average": 8.025641025641026,
-                    "conditions_average": 1.0,
+                    "conditions_average": 1.0512820512820513,
                     "assignments_min": 0.0,
                     "assignments_max": 26.0,
                     "branches_min": 0.0,
@@ -4351,11 +4351,11 @@
         "abc": {
             "assignments": 66.0,
             "branches": 313.0,
-            "conditions": 39.0,
-            "magnitude": 322.25145461269835,
+            "conditions": 41.0,
+            "magnitude": 322.49961240286785,
             "assignments_average": 1.65,
             "branches_average": 7.825,
-            "conditions_average": 0.975,
+            "conditions_average": 1.025,
             "assignments_min": 0.0,
             "assignments_max": 26.0,
             "branches_min": 0.0,
