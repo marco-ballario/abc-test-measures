@@ -54,20 +54,20 @@
                                     "max": 1.0
                                 },
                                 "halstead": {
-                                    "n1": 0.0,
-                                    "N1": 0.0,
-                                    "n2": 0.0,
-                                    "N2": 0.0,
-                                    "length": 0.0,
-                                    "estimated_program_length": null,
-                                    "purity_ratio": null,
-                                    "vocabulary": 0.0,
-                                    "volume": null,
-                                    "difficulty": null,
-                                    "level": null,
-                                    "effort": null,
-                                    "time": null,
-                                    "bugs": null
+                                    "n1": 10.0,
+                                    "N1": 15.0,
+                                    "n2": 3.0,
+                                    "N2": 7.0,
+                                    "length": 22.0,
+                                    "estimated_program_length": 37.974168451037094,
+                                    "purity_ratio": 1.7260985659562316,
+                                    "vocabulary": 13.0,
+                                    "volume": 81.40967379910403,
+                                    "difficulty": 11.666666666666666,
+                                    "level": 0.08571428571428572,
+                                    "effort": 949.7795276562136,
+                                    "time": 52.765529314234094,
+                                    "bugs": 0.03220776692574197
                                 },
                                 "loc": {
                                     "sloc": 4.0,
@@ -104,9 +104,9 @@
                                     "closures_max": 0.0
                                 },
                                 "mi": {
-                                    "mi_original": null,
-                                    "mi_sei": null,
-                                    "mi_visual_studio": 0.0
+                                    "mi_original": 125.4346619846797,
+                                    "mi_sei": 105.3649326682725,
+                                    "mi_visual_studio": 73.35360349981269
                                 },
                                 "abc": {
                                     "assignments": 2.0,
@@ -163,20 +163,20 @@
                                     "max": 1.0
                                 },
                                 "halstead": {
-                                    "n1": 0.0,
-                                    "N1": 0.0,
-                                    "n2": 0.0,
-                                    "N2": 0.0,
-                                    "length": 0.0,
-                                    "estimated_program_length": null,
-                                    "purity_ratio": null,
-                                    "vocabulary": 0.0,
-                                    "volume": null,
-                                    "difficulty": null,
-                                    "level": null,
-                                    "effort": null,
-                                    "time": null,
-                                    "bugs": null
+                                    "n1": 11.0,
+                                    "N1": 16.0,
+                                    "n2": 5.0,
+                                    "N2": 7.0,
+                                    "length": 23.0,
+                                    "estimated_program_length": 49.66338827944708,
+                                    "purity_ratio": 2.1592777512803076,
+                                    "vocabulary": 16.0,
+                                    "volume": 92.0,
+                                    "difficulty": 7.7,
+                                    "level": 0.12987012987012986,
+                                    "effort": 708.4,
+                                    "time": 39.355555555555554,
+                                    "bugs": 0.026488931909070017
                                 },
                                 "loc": {
                                     "sloc": 4.0,
@@ -213,9 +213,9 @@
                                     "closures_max": 0.0
                                 },
                                 "mi": {
-                                    "mi_original": null,
-                                    "mi_sei": null,
-                                    "mi_visual_studio": 0.0
+                                    "mi_original": 124.79873074920278,
+                                    "mi_sei": 104.44747782850354,
+                                    "mi_visual_studio": 72.98171388842268
                                 },
                                 "abc": {
                                     "assignments": 2.0,
@@ -272,20 +272,20 @@
                                     "max": 1.0
                                 },
                                 "halstead": {
-                                    "n1": 0.0,
-                                    "N1": 0.0,
-                                    "n2": 0.0,
-                                    "N2": 0.0,
-                                    "length": 0.0,
-                                    "estimated_program_length": null,
-                                    "purity_ratio": null,
-                                    "vocabulary": 0.0,
-                                    "volume": null,
-                                    "difficulty": null,
-                                    "level": null,
-                                    "effort": null,
-                                    "time": null,
-                                    "bugs": null
+                                    "n1": 9.0,
+                                    "N1": 13.0,
+                                    "n2": 7.0,
+                                    "N2": 7.0,
+                                    "length": 20.0,
+                                    "estimated_program_length": 48.18080946738404,
+                                    "purity_ratio": 2.4090404733692017,
+                                    "vocabulary": 16.0,
+                                    "volume": 80.0,
+                                    "difficulty": 4.5,
+                                    "level": 0.2222222222222222,
+                                    "effort": 360.0,
+                                    "time": 20.0,
+                                    "bugs": 0.016868653306034983
                                 },
                                 "loc": {
                                     "sloc": 3.0,
@@ -322,9 +322,9 @@
                                     "closures_max": 0.0
                                 },
                                 "mi": {
-                                    "mi_original": null,
-                                    "mi_sei": null,
-                                    "mi_visual_studio": 0.0
+                                    "mi_original": 130.18594242327245,
+                                    "mi_sei": 112.219581394903,
+                                    "mi_visual_studio": 76.13213007208915
                                 },
                                 "abc": {
                                     "assignments": 0.0,
@@ -376,20 +376,20 @@
                             "max": 1.0
                         },
                         "halstead": {
-                            "n1": 0.0,
-                            "N1": 0.0,
-                            "n2": 0.0,
-                            "N2": 0.0,
-                            "length": 0.0,
-                            "estimated_program_length": null,
-                            "purity_ratio": null,
-                            "vocabulary": 0.0,
-                            "volume": null,
-                            "difficulty": null,
-                            "level": null,
-                            "effort": null,
-                            "time": null,
-                            "bugs": null
+                            "n1": 13.0,
+                            "N1": 49.0,
+                            "n2": 11.0,
+                            "N2": 24.0,
+                            "length": 73.0,
+                            "estimated_program_length": 86.15946414084446,
+                            "purity_ratio": 1.1802666320663624,
+                            "vocabulary": 24.0,
+                            "volume": 334.7022625526444,
+                            "difficulty": 14.181818181818182,
+                            "level": 0.07051282051282051,
+                            "effort": 4746.686632564775,
+                            "time": 263.7048129202653,
+                            "bugs": 0.09414684834577884
                         },
                         "loc": {
                             "sloc": 18.0,
@@ -426,9 +426,9 @@
                             "closures_max": 0.0
                         },
                         "mi": {
-                            "mi_original": null,
-                            "mi_sei": null,
-                            "mi_visual_studio": 0.0
+                            "mi_original": 93.02712240777181,
+                            "mi_sei": 58.91619561146804,
+                            "mi_visual_studio": 54.40182596945721
                         },
                         "abc": {
                             "assignments": 4.0,
@@ -488,20 +488,20 @@
                             "max": 1.0
                         },
                         "halstead": {
-                            "n1": 0.0,
-                            "N1": 0.0,
-                            "n2": 0.0,
-                            "N2": 0.0,
-                            "length": 0.0,
-                            "estimated_program_length": null,
-                            "purity_ratio": null,
-                            "vocabulary": 0.0,
-                            "volume": null,
-                            "difficulty": null,
-                            "level": null,
-                            "effort": null,
-                            "time": null,
-                            "bugs": null
+                            "n1": 7.0,
+                            "N1": 17.0,
+                            "n2": 5.0,
+                            "N2": 7.0,
+                            "length": 24.0,
+                            "estimated_program_length": 31.26112492884004,
+                            "purity_ratio": 1.3025468720350017,
+                            "vocabulary": 12.0,
+                            "volume": 86.03910001730775,
+                            "difficulty": 4.9,
+                            "level": 0.2040816326530612,
+                            "effort": 421.591590084808,
+                            "time": 23.421755004711557,
+                            "bugs": 0.018741601728696464
                         },
                         "loc": {
                             "sloc": 5.0,
@@ -538,9 +538,9 @@
                             "closures_max": 0.0
                         },
                         "mi": {
-                            "mi_original": null,
-                            "mi_sei": null,
-                            "mi_visual_studio": 0.0
+                            "mi_original": 121.53213622823392,
+                            "mi_sei": 99.73477811250672,
+                            "mi_visual_studio": 71.07142469487364
                         },
                         "abc": {
                             "assignments": 0.0,
@@ -597,20 +597,20 @@
                             "max": 1.0
                         },
                         "halstead": {
-                            "n1": 0.0,
-                            "N1": 0.0,
-                            "n2": 0.0,
-                            "N2": 0.0,
-                            "length": 0.0,
-                            "estimated_program_length": null,
-                            "purity_ratio": null,
-                            "vocabulary": 0.0,
-                            "volume": null,
-                            "difficulty": null,
-                            "level": null,
-                            "effort": null,
-                            "time": null,
-                            "bugs": null
+                            "n1": 12.0,
+                            "N1": 172.0,
+                            "n2": 34.0,
+                            "N2": 90.0,
+                            "length": 262.0,
+                            "estimated_program_length": 215.99328661116542,
+                            "purity_ratio": 0.8244018572945245,
+                            "vocabulary": 46.0,
+                            "volume": 1447.1732324869374,
+                            "difficulty": 15.882352941176471,
+                            "level": 0.06296296296296296,
+                            "effort": 22984.516045380773,
+                            "time": 1276.9175580767096,
+                            "bugs": 0.2694649734310486
                         },
                         "loc": {
                             "sloc": 37.0,
@@ -647,9 +647,9 @@
                             "closures_max": 0.0
                         },
                         "mi": {
-                            "mi_original": null,
-                            "mi_sei": null,
-                            "mi_visual_studio": 0.0
+                            "mi_original": 74.43081913839742,
+                            "mi_sei": 31.781941527661004,
+                            "mi_visual_studio": 43.52679481777627
                         },
                         "abc": {
                             "assignments": 7.0,
@@ -706,20 +706,20 @@
                             "max": 3.0
                         },
                         "halstead": {
-                            "n1": 0.0,
-                            "N1": 0.0,
-                            "n2": 0.0,
-                            "N2": 0.0,
-                            "length": 0.0,
-                            "estimated_program_length": null,
-                            "purity_ratio": null,
-                            "vocabulary": 0.0,
-                            "volume": null,
-                            "difficulty": null,
-                            "level": null,
-                            "effort": null,
-                            "time": null,
-                            "bugs": null
+                            "n1": 20.0,
+                            "N1": 77.0,
+                            "n2": 14.0,
+                            "N2": 35.0,
+                            "length": 112.0,
+                            "estimated_program_length": 139.7415308065537,
+                            "purity_ratio": 1.2476922393442293,
+                            "vocabulary": 34.0,
+                            "volume": 569.7958382200379,
+                            "difficulty": 25.0,
+                            "level": 0.04,
+                            "effort": 14244.895955500948,
+                            "time": 791.3831086389415,
+                            "bugs": 0.19587767161711964
                         },
                         "loc": {
                             "sloc": 15.0,
@@ -756,9 +756,9 @@
                             "closures_max": 0.0
                         },
                         "mi": {
-                            "mi_original": null,
-                            "mi_sei": null,
-                            "mi_visual_studio": 0.0
+                            "mi_original": 93.44414052799303,
+                            "mi_sei": 59.41600572606757,
+                            "mi_visual_studio": 54.645696215200594
                         },
                         "abc": {
                             "assignments": 9.0,
@@ -815,20 +815,20 @@
                             "max": 1.0
                         },
                         "halstead": {
-                            "n1": 0.0,
-                            "N1": 0.0,
-                            "n2": 0.0,
-                            "N2": 0.0,
-                            "length": 0.0,
-                            "estimated_program_length": null,
-                            "purity_ratio": null,
-                            "vocabulary": 0.0,
-                            "volume": null,
-                            "difficulty": null,
-                            "level": null,
-                            "effort": null,
-                            "time": null,
-                            "bugs": null
+                            "n1": 12.0,
+                            "N1": 34.0,
+                            "n2": 11.0,
+                            "N2": 19.0,
+                            "length": 53.0,
+                            "estimated_program_length": 81.07329781366414,
+                            "purity_ratio": 1.5296848644087573,
+                            "vocabulary": 23.0,
+                            "volume": 239.7487836710217,
+                            "difficulty": 10.363636363636363,
+                            "level": 0.09649122807017545,
+                            "effort": 2484.6692125905884,
+                            "time": 138.0371784772549,
+                            "bugs": 0.061149249483046335
                         },
                         "loc": {
                             "sloc": 7.0,
@@ -865,9 +865,9 @@
                             "closures_max": 0.0
                         },
                         "mi": {
-                            "mi_original": null,
-                            "mi_sei": null,
-                            "mi_visual_studio": 0.0
+                            "mi_original": 110.75237905507544,
+                            "mi_sei": 84.18287589680375,
+                            "mi_visual_studio": 64.76747313162306
                         },
                         "abc": {
                             "assignments": 2.0,
@@ -930,20 +930,20 @@
                                     "max": 7.0
                                 },
                                 "halstead": {
-                                    "n1": 0.0,
-                                    "N1": 0.0,
-                                    "n2": 0.0,
-                                    "N2": 0.0,
-                                    "length": 0.0,
-                                    "estimated_program_length": null,
-                                    "purity_ratio": null,
-                                    "vocabulary": 0.0,
-                                    "volume": null,
-                                    "difficulty": null,
-                                    "level": null,
-                                    "effort": null,
-                                    "time": null,
-                                    "bugs": null
+                                    "n1": 19.0,
+                                    "N1": 114.0,
+                                    "n2": 26.0,
+                                    "N2": 47.0,
+                                    "length": 161.0,
+                                    "estimated_program_length": 202.9220554270965,
+                                    "purity_ratio": 1.260385437435382,
+                                    "vocabulary": 45.0,
+                                    "volume": 884.1883485090776,
+                                    "difficulty": 17.173076923076923,
+                                    "level": 0.05823068309070548,
+                                    "effort": 15184.234523434738,
+                                    "time": 843.5685846352632,
+                                    "bugs": 0.20439676310166638
                                 },
                                 "loc": {
                                     "sloc": 27.0,
@@ -980,9 +980,9 @@
                                     "closures_max": 0.0
                                 },
                                 "mi": {
-                                    "mi_original": null,
-                                    "mi_sei": null,
-                                    "mi_visual_studio": 0.0
+                                    "mi_original": 80.71715823062124,
+                                    "mi_sei": 41.46213091778553,
+                                    "mi_visual_studio": 47.203016509135225
                                 },
                                 "abc": {
                                     "assignments": 5.0,
@@ -1034,20 +1034,20 @@
                             "max": 7.0
                         },
                         "halstead": {
-                            "n1": 0.0,
-                            "N1": 0.0,
-                            "n2": 0.0,
-                            "N2": 0.0,
-                            "length": 0.0,
-                            "estimated_program_length": null,
-                            "purity_ratio": null,
-                            "vocabulary": 0.0,
-                            "volume": null,
-                            "difficulty": null,
-                            "level": null,
-                            "effort": null,
-                            "time": null,
-                            "bugs": null
+                            "n1": 20.0,
+                            "N1": 144.0,
+                            "n2": 29.0,
+                            "N2": 59.0,
+                            "length": 203.0,
+                            "estimated_program_length": 227.32001075644683,
+                            "purity_ratio": 1.1198030086524475,
+                            "vocabulary": 49.0,
+                            "volume": 1139.7860983553874,
+                            "difficulty": 20.344827586206897,
+                            "level": 0.04915254237288136,
+                            "effort": 23188.75165619581,
+                            "time": 1288.2639808997674,
+                            "bugs": 0.2710588916905105
                         },
                         "loc": {
                             "sloc": 35.0,
@@ -1084,9 +1084,9 @@
                             "closures_max": 0.0
                         },
                         "mi": {
-                            "mi_original": null,
-                            "mi_sei": null,
-                            "mi_visual_studio": 0.0
+                            "mi_original": 74.96266277191079,
+                            "mi_sei": 33.261968716090365,
+                            "mi_visual_studio": 43.837814486497535
                         },
                         "abc": {
                             "assignments": 6.0,
@@ -1149,20 +1149,20 @@
                                     "max": 3.0
                                 },
                                 "halstead": {
-                                    "n1": 0.0,
-                                    "N1": 0.0,
-                                    "n2": 0.0,
-                                    "N2": 0.0,
-                                    "length": 0.0,
-                                    "estimated_program_length": null,
-                                    "purity_ratio": null,
-                                    "vocabulary": 0.0,
-                                    "volume": null,
-                                    "difficulty": null,
-                                    "level": null,
-                                    "effort": null,
-                                    "time": null,
-                                    "bugs": null
+                                    "n1": 13.0,
+                                    "N1": 72.0,
+                                    "n2": 20.0,
+                                    "N2": 41.0,
+                                    "length": 113.0,
+                                    "estimated_program_length": 134.54427823358145,
+                                    "purity_ratio": 1.1906573295007208,
+                                    "vocabulary": 33.0,
+                                    "volume": 570.0165354875053,
+                                    "difficulty": 13.325,
+                                    "level": 0.075046904315197,
+                                    "effort": 7595.470335371007,
+                                    "time": 421.9705741872782,
+                                    "bugs": 0.12879980135443683
                                 },
                                 "loc": {
                                     "sloc": 14.0,
@@ -1199,9 +1199,9 @@
                                     "closures_max": 0.0
                                 },
                                 "mi": {
-                                    "mi_original": null,
-                                    "mi_sei": null,
-                                    "mi_visual_studio": 0.0
+                                    "mi_original": 94.5598113360507,
+                                    "mi_sei": 61.02557846811694,
+                                    "mi_visual_studio": 55.298135284240175
                                 },
                                 "abc": {
                                     "assignments": 4.0,
@@ -1253,20 +1253,20 @@
                             "max": 3.0
                         },
                         "halstead": {
-                            "n1": 0.0,
-                            "N1": 0.0,
-                            "n2": 0.0,
-                            "N2": 0.0,
-                            "length": 0.0,
-                            "estimated_program_length": null,
-                            "purity_ratio": null,
-                            "vocabulary": 0.0,
-                            "volume": null,
-                            "difficulty": null,
-                            "level": null,
-                            "effort": null,
-                            "time": null,
-                            "bugs": null
+                            "n1": 14.0,
+                            "N1": 97.0,
+                            "n2": 23.0,
+                            "N2": 50.0,
+                            "length": 147.0,
+                            "estimated_program_length": 157.34489389811776,
+                            "purity_ratio": 1.070373427878352,
+                            "vocabulary": 37.0,
+                            "volume": 765.7896447474557,
+                            "difficulty": 15.217391304347826,
+                            "level": 0.06571428571428571,
+                            "effort": 11653.320680939543,
+                            "time": 647.4067044966413,
+                            "bugs": 0.17133465342591975
                         },
                         "loc": {
                             "sloc": 24.0,
@@ -1303,9 +1303,9 @@
                             "closures_max": 0.0
                         },
                         "mi": {
-                            "mi_original": null,
-                            "mi_sei": null,
-                            "mi_visual_studio": 0.0
+                            "mi_original": 84.06280886092671,
+                            "mi_sei": 45.98342491246083,
+                            "mi_visual_studio": 49.159537345571174
                         },
                         "abc": {
                             "assignments": 5.0,
@@ -1368,20 +1368,20 @@
                                     "max": 2.0
                                 },
                                 "halstead": {
-                                    "n1": 0.0,
-                                    "N1": 0.0,
-                                    "n2": 0.0,
-                                    "N2": 0.0,
-                                    "length": 0.0,
-                                    "estimated_program_length": null,
-                                    "purity_ratio": null,
-                                    "vocabulary": 0.0,
-                                    "volume": null,
-                                    "difficulty": null,
-                                    "level": null,
-                                    "effort": null,
-                                    "time": null,
-                                    "bugs": null
+                                    "n1": 12.0,
+                                    "N1": 33.0,
+                                    "n2": 9.0,
+                                    "N2": 11.0,
+                                    "length": 44.0,
+                                    "estimated_program_length": 71.54887502163469,
+                                    "purity_ratio": 1.6261107959462429,
+                                    "vocabulary": 21.0,
+                                    "volume": 193.26196660226546,
+                                    "difficulty": 7.333333333333333,
+                                    "level": 0.13636363636363638,
+                                    "effort": 1417.2544217499467,
+                                    "time": 78.73635676388592,
+                                    "bugs": 0.04205754894742134
                                 },
                                 "loc": {
                                     "sloc": 8.0,
@@ -1418,9 +1418,9 @@
                                     "closures_max": 0.0
                                 },
                                 "mi": {
-                                    "mi_original": null,
-                                    "mi_sei": null,
-                                    "mi_visual_studio": 0.0
+                                    "mi_original": 109.48000466079512,
+                                    "mi_sei": 82.4490475274259,
+                                    "mi_visual_studio": 64.02339453847668
                                 },
                                 "abc": {
                                     "assignments": 0.0,
@@ -1477,20 +1477,20 @@
                                     "max": 2.0
                                 },
                                 "halstead": {
-                                    "n1": 0.0,
-                                    "N1": 0.0,
-                                    "n2": 0.0,
-                                    "N2": 0.0,
-                                    "length": 0.0,
-                                    "estimated_program_length": null,
-                                    "purity_ratio": null,
-                                    "vocabulary": 0.0,
-                                    "volume": null,
-                                    "difficulty": null,
-                                    "level": null,
-                                    "effort": null,
-                                    "time": null,
-                                    "bugs": null
+                                    "n1": 12.0,
+                                    "N1": 33.0,
+                                    "n2": 9.0,
+                                    "N2": 11.0,
+                                    "length": 44.0,
+                                    "estimated_program_length": 71.54887502163469,
+                                    "purity_ratio": 1.6261107959462429,
+                                    "vocabulary": 21.0,
+                                    "volume": 193.26196660226546,
+                                    "difficulty": 7.333333333333333,
+                                    "level": 0.13636363636363638,
+                                    "effort": 1417.2544217499467,
+                                    "time": 78.73635676388592,
+                                    "bugs": 0.04205754894742134
                                 },
                                 "loc": {
                                     "sloc": 8.0,
@@ -1527,9 +1527,9 @@
                                     "closures_max": 0.0
                                 },
                                 "mi": {
-                                    "mi_original": null,
-                                    "mi_sei": null,
-                                    "mi_visual_studio": 0.0
+                                    "mi_original": 109.48000466079512,
+                                    "mi_sei": 82.4490475274259,
+                                    "mi_visual_studio": 64.02339453847668
                                 },
                                 "abc": {
                                     "assignments": 0.0,
@@ -1586,20 +1586,20 @@
                                     "max": 2.0
                                 },
                                 "halstead": {
-                                    "n1": 0.0,
-                                    "N1": 0.0,
-                                    "n2": 0.0,
-                                    "N2": 0.0,
-                                    "length": 0.0,
-                                    "estimated_program_length": null,
-                                    "purity_ratio": null,
-                                    "vocabulary": 0.0,
-                                    "volume": null,
-                                    "difficulty": null,
-                                    "level": null,
-                                    "effort": null,
-                                    "time": null,
-                                    "bugs": null
+                                    "n1": 12.0,
+                                    "N1": 33.0,
+                                    "n2": 9.0,
+                                    "N2": 11.0,
+                                    "length": 44.0,
+                                    "estimated_program_length": 71.54887502163469,
+                                    "purity_ratio": 1.6261107959462429,
+                                    "vocabulary": 21.0,
+                                    "volume": 193.26196660226546,
+                                    "difficulty": 7.333333333333333,
+                                    "level": 0.13636363636363638,
+                                    "effort": 1417.2544217499467,
+                                    "time": 78.73635676388592,
+                                    "bugs": 0.04205754894742134
                                 },
                                 "loc": {
                                     "sloc": 8.0,
@@ -1636,9 +1636,9 @@
                                     "closures_max": 0.0
                                 },
                                 "mi": {
-                                    "mi_original": null,
-                                    "mi_sei": null,
-                                    "mi_visual_studio": 0.0
+                                    "mi_original": 109.48000466079512,
+                                    "mi_sei": 82.4490475274259,
+                                    "mi_visual_studio": 64.02339453847668
                                 },
                                 "abc": {
                                     "assignments": 0.0,
@@ -1690,20 +1690,20 @@
                             "max": 2.0
                         },
                         "halstead": {
-                            "n1": 0.0,
-                            "N1": 0.0,
-                            "n2": 0.0,
-                            "N2": 0.0,
-                            "length": 0.0,
-                            "estimated_program_length": null,
-                            "purity_ratio": null,
-                            "vocabulary": 0.0,
-                            "volume": null,
-                            "difficulty": null,
-                            "level": null,
-                            "effort": null,
-                            "time": null,
-                            "bugs": null
+                            "n1": 13.0,
+                            "N1": 119.0,
+                            "n2": 14.0,
+                            "N2": 37.0,
+                            "length": 156.0,
+                            "estimated_program_length": 101.40868524464065,
+                            "purity_ratio": 0.6500556746451324,
+                            "vocabulary": 27.0,
+                            "volume": 741.762450337501,
+                            "difficulty": 17.178571428571427,
+                            "level": 0.058212058212058215,
+                            "effort": 12742.419236154927,
+                            "time": 707.9121797863849,
+                            "bugs": 0.1818500138078595
                         },
                         "loc": {
                             "sloc": 30.0,
@@ -1740,9 +1740,9 @@
                             "closures_max": 0.0
                         },
                         "mi": {
-                            "mi_original": null,
-                            "mi_sei": null,
-                            "mi_visual_studio": 0.0
+                            "mi_original": 79.92365138766982,
+                            "mi_sei": 40.317342530548075,
+                            "mi_visual_studio": 46.73897741968995
                         },
                         "abc": {
                             "assignments": 0.0,
@@ -1799,20 +1799,20 @@
                             "max": 1.0
                         },
                         "halstead": {
-                            "n1": 0.0,
-                            "N1": 0.0,
-                            "n2": 0.0,
-                            "N2": 0.0,
-                            "length": 0.0,
-                            "estimated_program_length": null,
-                            "purity_ratio": null,
-                            "vocabulary": 0.0,
-                            "volume": null,
-                            "difficulty": null,
-                            "level": null,
-                            "effort": null,
-                            "time": null,
-                            "bugs": null
+                            "n1": 8.0,
+                            "N1": 25.0,
+                            "n2": 6.0,
+                            "N2": 9.0,
+                            "length": 34.0,
+                            "estimated_program_length": 39.50977500432694,
+                            "purity_ratio": 1.162052206009616,
+                            "vocabulary": 14.0,
+                            "volume": 129.45006734995854,
+                            "difficulty": 6.0,
+                            "level": 0.16666666666666666,
+                            "effort": 776.7004040997513,
+                            "time": 43.15002244998618,
+                            "bugs": 0.028165303323306436
                         },
                         "loc": {
                             "sloc": 6.0,
@@ -1849,9 +1849,9 @@
                             "closures_max": 0.0
                         },
                         "mi": {
-                            "mi_original": null,
-                            "mi_sei": null,
-                            "mi_visual_studio": 0.0
+                            "mi_original": 116.45436142083452,
+                            "mi_sei": 92.40909757912073,
+                            "mi_visual_studio": 68.10196574317808
                         },
                         "abc": {
                             "assignments": 0.0,
@@ -1908,20 +1908,20 @@
                             "max": 1.0
                         },
                         "halstead": {
-                            "n1": 0.0,
-                            "N1": 0.0,
-                            "n2": 0.0,
-                            "N2": 0.0,
-                            "length": 0.0,
-                            "estimated_program_length": null,
-                            "purity_ratio": null,
-                            "vocabulary": 0.0,
-                            "volume": null,
-                            "difficulty": null,
-                            "level": null,
-                            "effort": null,
-                            "time": null,
-                            "bugs": null
+                            "n1": 8.0,
+                            "N1": 25.0,
+                            "n2": 6.0,
+                            "N2": 9.0,
+                            "length": 34.0,
+                            "estimated_program_length": 39.50977500432694,
+                            "purity_ratio": 1.162052206009616,
+                            "vocabulary": 14.0,
+                            "volume": 129.45006734995854,
+                            "difficulty": 6.0,
+                            "level": 0.16666666666666666,
+                            "effort": 776.7004040997513,
+                            "time": 43.15002244998618,
+                            "bugs": 0.028165303323306436
                         },
                         "loc": {
                             "sloc": 6.0,
@@ -1958,9 +1958,9 @@
                             "closures_max": 0.0
                         },
                         "mi": {
-                            "mi_original": null,
-                            "mi_sei": null,
-                            "mi_visual_studio": 0.0
+                            "mi_original": 116.45436142083452,
+                            "mi_sei": 92.40909757912073,
+                            "mi_visual_studio": 68.10196574317808
                         },
                         "abc": {
                             "assignments": 0.0,
@@ -2012,20 +2012,20 @@
                     "max": 7.0
                 },
                 "halstead": {
-                    "n1": 0.0,
-                    "N1": 0.0,
-                    "n2": 0.0,
-                    "N2": 0.0,
-                    "length": 0.0,
-                    "estimated_program_length": null,
-                    "purity_ratio": null,
-                    "vocabulary": 0.0,
-                    "volume": null,
-                    "difficulty": null,
-                    "level": null,
-                    "effort": null,
-                    "time": null,
-                    "bugs": null
+                    "n1": 27.0,
+                    "N1": 786.0,
+                    "n2": 94.0,
+                    "N2": 352.0,
+                    "length": 1138.0,
+                    "estimated_program_length": 744.5133146161115,
+                    "purity_ratio": 0.6542296262004494,
+                    "vocabulary": 121.0,
+                    "volume": 7873.666364018489,
+                    "difficulty": 50.5531914893617,
+                    "level": 0.01978114478114478,
+                    "effort": 398038.96342357295,
+                    "time": 22113.275745754054,
+                    "bugs": 1.8036923763866508
                 },
                 "loc": {
                     "sloc": 211.0,
@@ -2062,9 +2062,9 @@
                     "closures_max": 0.0
                 },
                 "mi": {
-                    "mi_original": null,
-                    "mi_sei": null,
-                    "mi_visual_studio": 0.0
+                    "mi_original": 30.289246924179537,
+                    "mi_sei": -14.822365488075185,
+                    "mi_visual_studio": 17.713009897181017
                 },
                 "abc": {
                     "assignments": 34.0,
@@ -2119,20 +2119,20 @@
             "max": 7.0
         },
         "halstead": {
-            "n1": 0.0,
-            "N1": 0.0,
-            "n2": 0.0,
-            "N2": 0.0,
-            "length": 0.0,
-            "estimated_program_length": null,
-            "purity_ratio": null,
-            "vocabulary": 0.0,
-            "volume": null,
-            "difficulty": null,
-            "level": null,
-            "effort": null,
-            "time": null,
-            "bugs": null
+            "n1": 27.0,
+            "N1": 824.0,
+            "n2": 112.0,
+            "N2": 390.0,
+            "length": 1214.0,
+            "estimated_program_length": 890.8057138288652,
+            "purity_ratio": 0.7337773590023602,
+            "vocabulary": 139.0,
+            "volume": 8642.394462286338,
+            "difficulty": 47.00892857142857,
+            "level": 0.02127255460588794,
+            "effort": 406269.7039637283,
+            "time": 22570.539109096015,
+            "bugs": 1.828472236422983
         },
         "loc": {
             "sloc": 224.0,
@@ -2169,9 +2169,9 @@
             "closures_max": 0.0
         },
         "mi": {
-            "mi_original": null,
-            "mi_sei": null,
-            "mi_visual_studio": 0.0
+            "mi_original": 28.606272166692676,
+            "mi_sei": -17.548128282666816,
+            "mi_visual_studio": 16.728814132568814
         },
         "abc": {
             "assignments": 34.0,
